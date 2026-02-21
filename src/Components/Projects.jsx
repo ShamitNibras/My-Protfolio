@@ -19,7 +19,7 @@ const projects = [
       "Fully responsive animated portfolio built using React, Tailwind CSS and Framer Motion.",
     image: "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
     tech: ["React", "Tailwind", "Framer Motion"],
-    github: "#",
+    github: "https://github.com/ShamitNibras/My-Protfolio",
     live: "#",
   },
   {
